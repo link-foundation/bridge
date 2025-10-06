@@ -107,6 +107,11 @@ dist
 # Docusaurus cache and generated files
 .docusaurus
 
+# Bridge specific
+config.json
+data/
+*.lino
+
 # Serverless directories
 .serverless/
 
